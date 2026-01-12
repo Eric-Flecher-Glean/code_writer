@@ -1,0 +1,122 @@
+[
+  {
+    "id": "micra-portfolio-brochure-av2-vr2",
+    "title": "Micra portfolio brochure (AV2 and VR2)",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1yUIRPKEogyM1hDXsnAdBL6LRzdtHLzn4",
+    "description": "Comprehensive portfolio brochure for Micra AV2 and VR2 leadless pacemakers",
+    "tags": ["brochure", "micra", "portfolio", "av2", "vr2"],
+    "order": 1
+  },
+  {
+    "id": "micra-vr2-technical-specifications",
+    "title": "Micra VR2 technical specifications",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1DOEhyS75KBn-hyxzm0knl3z96KNwLxq6",
+    "description": "Technical specifications for Micra VR2 leadless pacemaker (Model MC2VR01)",
+    "tags": ["technical", "specs", "vr2"],
+    "order": 2
+  },
+  {
+    "id": "micra-vr2-spec-sheet-western-europe",
+    "title": "Micra VR2 spec sheet (Western Europe)",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1_S4SP3-K2L6gSALhbNCrBUXEyd1eXOjf",
+    "description": "Product specifications for Micra VR2 - Western Europe region",
+    "tags": ["specs", "vr2", "europe"],
+    "order": 3
+  },
+  {
+    "id": "micra-av2-technical-specifications",
+    "title": "Micra AV2 technical specifications",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1gChxAqptXBKbNjAVCfPshpWfk4u_jgWp",
+    "description": "Technical specifications for Micra AV2 leadless pacemaker (Model MC2AVR1)",
+    "tags": ["technical", "specs", "av2"],
+    "order": 4
+  },
+  {
+    "id": "micra-av-mc1avr1-implant-manual",
+    "title": "Micra AV MC1AVR1 implant manual with MRI and EMI precautions",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1pJ1yqe-r2Vim0vCt7dpoxsry3-vKMZwz",
+    "description": "Complete device manual for Micra AV MC1AVR1 including MRI safety and EMI precautions",
+    "tags": ["manual", "implant", "mri", "emi", "av"],
+    "order": 5
+  },
+  {
+    "id": "living-with-micra-leadless-pacemaker",
+    "title": "Living with the Micra leadless pacemaker",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1D6VEaghViCEgt6jyFqVh5rG1EXyq403s",
+    "description": "Patient education brochure about living with a Micra leadless pacemaker",
+    "tags": ["patient", "education", "brochure"],
+    "order": 6
+  },
+  {
+    "id": "micra-av2-vr2-product-page-emea",
+    "title": "Micra AV2 and VR2 product page (EMEA)",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1LgJZiD6A2gKBkFRP8HWAd43K_keOQRRl",
+    "description": "Product information page for Micra AV2 and VR2 - EMEA region",
+    "tags": ["product-page", "emea", "av2", "vr2"],
+    "order": 7
+  },
+  {
+    "id": "micra-av2-product-page",
+    "title": "Micra AV2 product page",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1eNJGa5ia1nnecfYobnvo6N-L-bdOPg_d",
+    "description": "Product information page for Micra AV2 leadless pacemaker",
+    "tags": ["product-page", "av2"],
+    "order": 8
+  },
+  {
+    "id": "coronary-product-catalog",
+    "title": "Coronary product catalog",
+    "category": "Coronary",
+    "product_family": "Coronary Products",
+    "pdf_url": "https://drive.google.com/file/d/1bY59puQhofb_jACkZXXxQ-he-BZL9nHz",
+    "description": "Complete catalog of Medtronic coronary products including stents and catheters",
+    "tags": ["catalog", "coronary", "stents"],
+    "order": 9
+  },
+  {
+    "id": "symplicity-spyral-brochure",
+    "title": "Symplicity Spyral brochure",
+    "category": "Hypertension",
+    "product_family": "Renal Denervation",
+    "pdf_url": "https://drive.google.com/file/d/1l7_3mHucEMZ96xo4J2WxmABK2UbAKHmR",
+    "description": "Product brochure for Symplicity Spyral renal denervation system for hypertension treatment",
+    "tags": ["brochure", "hypertension", "renal-denervation"],
+    "order": 10
+  },
+  {
+    "id": "products-csv",
+    "title": "Products CSV (Data Reference)",
+    "category": "Data",
+    "product_family": "Reference Data",
+    "pdf_url": "https://drive.google.com/file/d/1r9f32GMsRZuRWeqTSHdPTtIuQldsow3C",
+    "description": "Complete product catalog in CSV format with model numbers, pricing, and specifications",
+    "tags": ["data", "csv", "catalog"],
+    "order": 11
+  },
+  {
+    "id": "data-dictionary",
+    "title": "Medtronic Data Dictionary",
+    "category": "Data",
+    "product_family": "Reference Data",
+    "pdf_url": "https://drive.google.com/file/d/1Lo8bbQkt-ZV_w2YMNnA-VNOoxUwmMepC",
+    "description": "Data dictionary for Medtronic synthetic data including field definitions and naming conventions",
+    "tags": ["data", "dictionary", "reference"],
+    "order": 12
+  }
+]
