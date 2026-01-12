@@ -4,7 +4,7 @@
     "title": "Micra portfolio brochure (AV2 and VR2)",
     "category": "Micra",
     "product_family": "Leadless Pacemakers",
-    "pdf_url": "https://drive.google.com/file/d/1yUIRPKEogyM1hDXsnAdBL6LRzdtHLzn4",
+    "pdf_url": "http://localhost:4000/pdfs/04_Micra portfolio brochure (AV2 and VR2).pdf",
     "description": "Complete portfolio overview of Micra AV2 and VR2 leadless pacemakers",
     "tags": ["brochure", "micra", "portfolio"],
     "order": 1
@@ -14,7 +14,7 @@
     "title": "Micra VR2 technical specifications",
     "category": "Micra",
     "product_family": "Leadless Pacemakers",
-    "pdf_url": "https://drive.google.com/file/d/1DOEhyS75KBn-hyxzm0knl3z96KNwLxq6",
+    "pdf_url": "http://localhost:4000/pdfs/01_Micra VR2 technical specifications.pdf",
     "description": "Detailed technical specifications for Micra VR2 leadless pacemaker",
     "tags": ["technical", "specs", "micra"],
     "order": 2
@@ -24,7 +24,7 @@
     "title": "Micra AV2 technical specifications",
     "category": "Micra",
     "product_family": "Leadless Pacemakers",
-    "pdf_url": "https://drive.google.com/file/d/1abc123example",
+    "pdf_url": "http://localhost:4000/pdfs/02_Micra AV2 technical specifications.pdf",
     "description": "Detailed technical specifications for Micra AV2 leadless pacemaker",
     "tags": ["technical", "specs", "micra"],
     "order": 3
@@ -34,49 +34,209 @@
     "title": "Living with the Micra leadless pacemaker",
     "category": "Micra",
     "product_family": "Leadless Pacemakers",
-    "pdf_url": "https://drive.google.com/file/d/1def456example",
+    "pdf_url": "http://localhost:4000/pdfs/04_Living with the Micra leadless pacemaker.pdf",
     "description": "Patient guide for living with Micra leadless pacemaker",
     "tags": ["patient", "guide", "micra"],
     "order": 4
+  },
+  {
+    "id": "micra-vr2-spec-sheet-western-europe",
+    "title": "Micra VR2 spec sheet (Western Europe)",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "http://localhost:4000/pdfs/02_Micra VR2 spec sheet (Western Europe).pdf",
+    "description": "Regional specification sheet for Micra VR2 in Western Europe",
+    "tags": ["specs", "micra", "regional"],
+    "order": 5
+  },
+  {
+    "id": "micra-av-implant-manual",
+    "title": "Micra AV MC1AVR1 implant manual with MRI and EMI precautions",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "http://localhost:4000/pdfs/03_Micra AV MC1AVR1 implant manual with MRI and EMI precautions.pdf",
+    "description": "Complete implant manual including MRI and EMI safety precautions",
+    "tags": ["manual", "implant", "micra", "safety"],
+    "order": 6
+  },
+  {
+    "id": "aurora-ev-icd-system-brochure",
+    "title": "Aurora EV-ICD system brochure",
+    "category": "Aurora EV-ICD",
+    "product_family": "ICDs",
+    "pdf_url": "http://localhost:4000/pdfs/01_Aurora EV-ICD system brochure.pdf",
+    "description": "System overview brochure for Aurora EV-ICD",
+    "tags": ["brochure", "aurora", "icd"],
+    "order": 7
   },
   {
     "id": "aurora-ev-icd-patient-brochure",
     "title": "Aurora EV-ICD patient brochure",
     "category": "Aurora EV-ICD",
     "product_family": "ICDs",
-    "pdf_url": "https://drive.google.com/file/d/1ghi789example",
+    "pdf_url": "http://localhost:4000/pdfs/02_Aurora EV-ICD patient brochure.pdf",
     "description": "Patient information brochure for Aurora EV-ICD",
     "tags": ["patient", "brochure", "aurora"],
-    "order": 5
+    "order": 8
   },
   {
     "id": "pulseselect-patient-brochure",
     "title": "PulseSelect patient brochure",
     "category": "PulseSelect",
     "product_family": "AFib",
-    "pdf_url": "https://drive.google.com/file/d/1jkl012example",
+    "pdf_url": "http://localhost:4000/pdfs/02_PulseSelect patient brochure.pdf",
     "description": "Patient information for PulseSelect pulsed field ablation",
     "tags": ["patient", "brochure", "pulseselect", "afib"],
-    "order": 6
+    "order": 9
+  },
+  {
+    "id": "pulseselect-clinical-evidence-summary",
+    "title": "PulseSelect clinical evidence summary",
+    "category": "PulseSelect",
+    "product_family": "AFib",
+    "pdf_url": "http://localhost:4000/pdfs/03_PulseSelect clinical evidence summary.pdf",
+    "description": "Summary of clinical evidence for PulseSelect therapy",
+    "tags": ["clinical", "evidence", "pulseselect"],
+    "order": 10
+  },
+  {
+    "id": "pulseselect-catheter-components-specifications",
+    "title": "PulseSelect catheter components specifications",
+    "category": "PulseSelect",
+    "product_family": "AFib",
+    "pdf_url": "http://localhost:4000/pdfs/04_PulseSelect catheter components specifications.pdf",
+    "description": "Technical specifications for PulseSelect catheter components",
+    "tags": ["technical", "specs", "catheter", "pulseselect"],
+    "order": 11
+  },
+  {
+    "id": "pulseselect-generator-components-specifications",
+    "title": "PulseSelect generator components specifications",
+    "category": "PulseSelect",
+    "product_family": "AFib",
+    "pdf_url": "http://localhost:4000/pdfs/05_PulseSelect generator components specifications.pdf",
+    "description": "Technical specifications for PulseSelect generator components",
+    "tags": ["technical", "specs", "generator", "pulseselect"],
+    "order": 12
   },
   {
     "id": "tyrx-coding-guide-march-2025",
     "title": "TYRX coding guide (March 2025)",
     "category": "TYRX",
     "product_family": "Infection Prevention",
-    "pdf_url": "https://drive.google.com/file/d/1mno345example",
+    "pdf_url": "http://localhost:4000/pdfs/02_TYRX coding guide (March 2025).pdf",
     "description": "Medical coding guide for TYRX antibacterial envelope",
     "tags": ["coding", "guide", "tyrx"],
-    "order": 7
+    "order": 13
   },
   {
     "id": "peripheral-vascular-health-product-catalog",
     "title": "Peripheral vascular health product catalog",
     "category": "Peripheral Vascular",
     "product_family": "Peripheral Vascular",
-    "pdf_url": "https://drive.google.com/file/d/1pqr678example",
+    "pdf_url": "http://localhost:4000/pdfs/01_Peripheral vascular health product catalog.pdf",
     "description": "Complete catalog of peripheral vascular health products",
     "tags": ["catalog", "peripheral", "vascular"],
-    "order": 8
+    "order": 14
+  },
+  {
+    "id": "coronary-product-catalog",
+    "title": "Coronary product catalog",
+    "category": "Coronary",
+    "product_family": "Coronary",
+    "pdf_url": "http://localhost:4000/pdfs/01_Coronary product catalog.pdf",
+    "description": "Complete catalog of coronary intervention products",
+    "tags": ["catalog", "coronary"],
+    "order": 15
+  },
+  {
+    "id": "sphere-9-catheter-specifications",
+    "title": "Sphere-9 catheter specifications",
+    "category": "Sphere-9",
+    "product_family": "Cardiac Ablation",
+    "pdf_url": "http://localhost:4000/pdfs/02_Sphere-9 catheter specifications.pdf",
+    "description": "Technical specifications for Sphere-9 catheter",
+    "tags": ["technical", "specs", "catheter", "sphere-9"],
+    "order": 16
+  },
+  {
+    "id": "sphere-9-catheter-brochure",
+    "title": "Sphere-9 catheter brochure",
+    "category": "Sphere-9",
+    "product_family": "Cardiac Ablation",
+    "pdf_url": "http://localhost:4000/pdfs/03_Sphere-9 catheter brochure.pdf",
+    "description": "Product brochure for Sphere-9 catheter",
+    "tags": ["brochure", "catheter", "sphere-9"],
+    "order": 17
+  },
+  {
+    "id": "selectsecure-3830-specifications",
+    "title": "SelectSecure 3830 specifications",
+    "category": "SelectSecure",
+    "product_family": "Cardiac Leads",
+    "pdf_url": "http://localhost:4000/pdfs/01_SelectSecure 3830 specifications.pdf",
+    "description": "Technical specifications for SelectSecure 3830 lead",
+    "tags": ["technical", "specs", "lead", "selectsecure"],
+    "order": 18
+  },
+  {
+    "id": "linq-family-comparison-guide",
+    "title": "LINQ family comparison guide",
+    "category": "LINQ",
+    "product_family": "Insertable Cardiac Monitors",
+    "pdf_url": "http://localhost:4000/pdfs/04_LINQ family comparison guide.pdf",
+    "description": "Comparison guide for LINQ family of insertable cardiac monitors",
+    "tags": ["guide", "comparison", "linq", "icm"],
+    "order": 19
+  },
+  {
+    "id": "mycarelink-heart-app-patient-user-guide",
+    "title": "MyCareLink Heart app patient user guide",
+    "category": "MyCareLink",
+    "product_family": "Remote Monitoring",
+    "pdf_url": "http://localhost:4000/pdfs/02_MyCareLink Heart app patient user guide.pdf",
+    "description": "Patient user guide for MyCareLink Heart mobile app",
+    "tags": ["patient", "guide", "app", "remote monitoring"],
+    "order": 20
+  },
+  {
+    "id": "symplicity-spyral-brochure",
+    "title": "Symplicity Spyral brochure",
+    "category": "Symplicity Spyral",
+    "product_family": "Renal Denervation",
+    "pdf_url": "http://localhost:4000/pdfs/02_Symplicity Spyral brochure.pdf",
+    "description": "Product brochure for Symplicity Spyral renal denervation system",
+    "tags": ["brochure", "symplicity", "renal denervation"],
+    "order": 21
+  },
+  {
+    "id": "model-5392-reference-guide",
+    "title": "Model 5392 reference guide",
+    "category": "Programming Systems",
+    "product_family": "Programming Systems",
+    "pdf_url": "http://localhost:4000/pdfs/01_Model 5392 reference guide.pdf",
+    "description": "Reference guide for Model 5392 programming system",
+    "tags": ["guide", "programmer", "reference"],
+    "order": 22
+  },
+  {
+    "id": "left-bundle-branch-area-pacing-indication-expansion",
+    "title": "Left bundle branch area pacing indication expansion",
+    "category": "Clinical Guides",
+    "product_family": "Cardiac Pacing",
+    "pdf_url": "http://localhost:4000/pdfs/02_Left bundle branch area pacing indication expansion.pdf",
+    "description": "Clinical guidance on expanded indications for left bundle branch area pacing",
+    "tags": ["clinical", "guide", "pacing", "lbbap"],
+    "order": 23
+  },
+  {
+    "id": "conduction-system-pacing-guide",
+    "title": "Conduction system pacing guide",
+    "category": "Clinical Guides",
+    "product_family": "Cardiac Pacing",
+    "pdf_url": "http://localhost:4000/pdfs/04_Conduction system pacing guide.pdf",
+    "description": "Comprehensive guide to conduction system pacing techniques",
+    "tags": ["clinical", "guide", "pacing", "conduction"],
+    "order": 24
   }
 ]
