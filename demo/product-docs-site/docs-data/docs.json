@@ -1,0 +1,82 @@
+[
+  {
+    "id": "micra-portfolio-brochure-av2-vr2",
+    "title": "Micra portfolio brochure (AV2 and VR2)",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1yUIRPKEogyM1hDXsnAdBL6LRzdtHLzn4",
+    "description": "Complete portfolio overview of Micra AV2 and VR2 leadless pacemakers",
+    "tags": ["brochure", "micra", "portfolio"],
+    "order": 1
+  },
+  {
+    "id": "micra-vr2-technical-specifications",
+    "title": "Micra VR2 technical specifications",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1DOEhyS75KBn-hyxzm0knl3z96KNwLxq6",
+    "description": "Detailed technical specifications for Micra VR2 leadless pacemaker",
+    "tags": ["technical", "specs", "micra"],
+    "order": 2
+  },
+  {
+    "id": "micra-av2-technical-specifications",
+    "title": "Micra AV2 technical specifications",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1abc123example",
+    "description": "Detailed technical specifications for Micra AV2 leadless pacemaker",
+    "tags": ["technical", "specs", "micra"],
+    "order": 3
+  },
+  {
+    "id": "living-with-micra-leadless-pacemaker",
+    "title": "Living with the Micra leadless pacemaker",
+    "category": "Micra",
+    "product_family": "Leadless Pacemakers",
+    "pdf_url": "https://drive.google.com/file/d/1def456example",
+    "description": "Patient guide for living with Micra leadless pacemaker",
+    "tags": ["patient", "guide", "micra"],
+    "order": 4
+  },
+  {
+    "id": "aurora-ev-icd-patient-brochure",
+    "title": "Aurora EV-ICD patient brochure",
+    "category": "Aurora EV-ICD",
+    "product_family": "ICDs",
+    "pdf_url": "https://drive.google.com/file/d/1ghi789example",
+    "description": "Patient information brochure for Aurora EV-ICD",
+    "tags": ["patient", "brochure", "aurora"],
+    "order": 5
+  },
+  {
+    "id": "pulseselect-patient-brochure",
+    "title": "PulseSelect patient brochure",
+    "category": "PulseSelect",
+    "product_family": "AFib",
+    "pdf_url": "https://drive.google.com/file/d/1jkl012example",
+    "description": "Patient information for PulseSelect pulsed field ablation",
+    "tags": ["patient", "brochure", "pulseselect", "afib"],
+    "order": 6
+  },
+  {
+    "id": "tyrx-coding-guide-march-2025",
+    "title": "TYRX coding guide (March 2025)",
+    "category": "TYRX",
+    "product_family": "Infection Prevention",
+    "pdf_url": "https://drive.google.com/file/d/1mno345example",
+    "description": "Medical coding guide for TYRX antibacterial envelope",
+    "tags": ["coding", "guide", "tyrx"],
+    "order": 7
+  },
+  {
+    "id": "peripheral-vascular-health-product-catalog",
+    "title": "Peripheral vascular health product catalog",
+    "category": "Peripheral Vascular",
+    "product_family": "Peripheral Vascular",
+    "pdf_url": "https://drive.google.com/file/d/1pqr678example",
+    "description": "Complete catalog of peripheral vascular health products",
+    "tags": ["catalog", "peripheral", "vascular"],
+    "order": 8
+  }
+]
